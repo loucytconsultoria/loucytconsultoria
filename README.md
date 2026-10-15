@@ -1,11 +1,9 @@
 ### Luis Lelis
 
-Economista (UFPR) e consultor. Implanto IA em operações reais: equipes pequenas, prazos curtos, erro público caro. Nos últimos anos isso significou campanhas eleitorais. Já assessorei mais de 200, e em 2026 operei a minha própria candidatura com os sistemas abaixo.
+Pesquisador em economia (UFPR) e consultor. Implemento IA em operações reais: equipes pequenas, prazos curtos, erro público caro. Nos últimos anos isso significou campanhas eleitorais. Já assessorei mais de 200, e em 2026 operei a minha própria candidatura com os sistemas abaixo.
 
 O que procuro mostrar aqui não é "usei IA", e sim **como colocar IA para trabalhar com controle**:
 
-- quem produz não verifica;
-- o humano aprova antes de qualquer ação externa;
 - simulação antes de executar;
 - auditoria do resultado, não do texto;
 - números que se reproduzem.
